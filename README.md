@@ -1,6 +1,6 @@
 # 🏥 MERN Stack Doctor Appointment Booking App
 
-A **Full Stack Doctor Appointment Booking System** built with the **MERN Stack (MongoDB, Express, React, Node.js)**. This project is inspired by a tutorial from [GreatStack](https://www.youtube.com/@GreatStackDev) and customized as part of my learning journey.
+A **Full Stack Doctor Appointment Booking System** built with the **MERN Stack (MongoDB, Express, React, Node.js)**.
 
 ---
 
